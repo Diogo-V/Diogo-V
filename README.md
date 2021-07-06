@@ -1,7 +1,7 @@
 ### Hi there!! I am Diogo!! 👋
 
 ## I am a Student, Developer and a Trader
-- 🔭 I’m currently working on a database + UI software for a pet gromming store
+- 🔭 I’m currently Co-Founding a Startup as CTO 
 - 🌱 I’m currently learning/developing a bit of everything, not only about programming, but also soft skills and about our world
 - 👯 I’m looking to collaborate on every kind of project since I like to learn and help others reach their goals
 - ⚡ Fun fact: I love to trade, mainly currencies and stocks, and to read
