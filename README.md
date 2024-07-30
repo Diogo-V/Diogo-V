@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Diogo</h1>
-<h3 align="center">I am a Software Engineer and Life Long learner</h3>
+<h3 align="center">I am a Software Engineer</h3>
 
 - 🔭 I’m currently working as a Machine Learning Operations Engineer @ [Equall.ai](https://equall.ai) and studying at @ [IST](https://tecnico.ulisboa.pt/pt/)
 - 🌱 I’m currently learning a bit of everything, but I have been focusing on Compilers and Machine Learning
+- 📝 I'm working on a novel technique for Quantization of Machine Learning models during my Master thesis
 - 👯 I’m looking to collaborate on every kind of project since I like to learn and help others reach their goals
 - 👨‍💻 All of my projects are available @ [https://github.com/Diogo-V](https://github.com/Diogo-V)
-- ⚡ Fun fact: I love to trade, mainly currencies and stocks, and to read
+- ⚡ Fun fact: I love to read, swim and to play basketball
 <!--- - 📝 I often write blog post and articles @ [https://diogovenancio.com/](https://diogovenancio.com/) --->
 <!--- - 📄 You can find my CV in my website @ [https://diogovenancio.com/](https://diogovenancio.com/) --->
 
