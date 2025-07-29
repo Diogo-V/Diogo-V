@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diogo</h1>
 <h3 align="center">I am a Software Engineer</h3>
 
-- 🔭 I’m currently working as a Machine Learning Operations Engineer @ [Equall.ai](https://equall.ai) and studying at @ [IST](https://tecnico.ulisboa.pt/pt/)
+- 🔭 I’m currently working as a Student Researcher @ [Google DeepMind](https://deepmind.google/) and studying at @ [IST](https://tecnico.ulisboa.pt/pt/)
 - 🌱 I’m currently learning a bit of everything, but I have been focusing on Compilers and Machine Learning
 - 📝 I'm working on a novel technique for Quantization of Machine Learning models during my Master thesis
 - 👯 I’m looking to collaborate on every kind of project since I like to learn and help others reach their goals
