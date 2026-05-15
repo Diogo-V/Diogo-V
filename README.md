@@ -10,6 +10,7 @@
   <a href="https://diogovenancio.com/">Website</a>
 </p>
 
+<!---
 ---
 
 ### 🚀 ML Performance Engineering & Research
@@ -72,3 +73,4 @@ I focus on the intersection of **ML Efficiency**, **Compilers** and **Distribute
 ![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=flat-square&logo=linux&logoColor=FCC624)
  
 &nbsp;
+--->
