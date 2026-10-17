@@ -1,6 +1,6 @@
 <h1 align="center">Diogo Venâncio</h1>
 <p align="center">
-  <strong>Software Engineer @ Google DeepMind (Gemini Deployment & Performance)</strong><br>
+  <strong>Software Engineer @ Google DeepMind (Gemini Deployment & Inference Performance)</strong><br>
   <em>ML Performance Engineering | Distributed ML Systems | GPU Programming | ML Compilers</em>
 </p>
 
